@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 </div>
 
 
-### About Me:
+### About Me
 - 👨‍🔬I am a particle physics PhD candidate.
 - 👨‍💻I am an aspring data scientist/anaylst.
 - 🌱 I'm interested in learning ML/DL.
 
-### Languages:
+### Languages
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>;
 </div>
 
-### Data Science:
+### Data Science
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
