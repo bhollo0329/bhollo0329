@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+ ### Hi there 👋
+</div>
 
 <!--
 **bhollo0329/bhollo0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💻 👨‍🔬
+
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ### About Me:
-- I am a particle physics PhD candidate.
-- I am an aspring data scientist/anaylst.
+- 👨‍🔬I am a particle physics PhD candidate.
+- 👨‍💻I am an aspring data scientist/anaylst.
 
 ### Languages:
 <div>
