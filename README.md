@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  I'm an aspiring data scientist/analyst named Bryce.
+</div>
+<div align="center">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
+
 
 ### About Me:
 - 👨‍🔬I am a particle physics PhD candidate.
