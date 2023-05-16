@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 ### About Me
-- 👨‍🔬I am a particle physics PhD candidate.
-- 👨‍💻I am an aspring data scientist/anaylst.
+- 👨‍🔬I'm a particle physics PhD candidate.
+- 👨‍💻I'm an aspring data scientist/anaylst.
 - 🌱 I'm interested in learning ML/DL.
 
 ### Languages
