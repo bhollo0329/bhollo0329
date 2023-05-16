@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Data Science:
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-plain.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-plain.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>;
 </div>
 
